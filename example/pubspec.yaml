@@ -1,0 +1,15 @@
+name: hl_router_example
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+  flutter: '>=3.35.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hl_router:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^4.0.0

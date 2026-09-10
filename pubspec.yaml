@@ -1,6 +1,8 @@
 name: hl_router
 description: A declarative Navigator 1.0 routing layer with parameters, guards, and transitions.
-version: 1.0.1
+version: 1.0.2
+homepage: https://github.com/iHanlei/flutter_hl_router
+repository: https://github.com/iHanlei/flutter_hl_router.git
 
 environment:
   sdk: ^3.9.0
